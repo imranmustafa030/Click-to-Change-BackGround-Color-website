@@ -10,7 +10,7 @@ This repository contains a simple website page that allows users to change the b
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/change-background-color.git`
+1. Clone the repository: `git clone https://github.com/imranmustafa030/Click-to-Change-Background-Color-website.git`
 2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
@@ -21,10 +21,6 @@ This repository contains a simple website page that allows users to change the b
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
 
 ## Credits
 
